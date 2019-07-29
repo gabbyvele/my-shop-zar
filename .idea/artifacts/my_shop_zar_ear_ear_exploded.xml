@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="my-shop-zar-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/my-shop-zar-ear/target/my-shop-zar-ear</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="msz-core-app/javaeeApplication/JavaEE" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/msz-core-app/target/my-shop-zar-ear/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/msz-core-app/src/main/application" />
+      <element id="archive" name="my-shop-zar-web.war">
+        <element id="artifact" artifact-name="my-shop-zar-web:war exploded" />
+      </element>
+      <element id="archive" name="my-shop-zar-ejb.jar">
+        <element id="artifact" artifact-name="my-shop-zar-ejb:ejb exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>

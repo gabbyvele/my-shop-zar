@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/msz-business/msz-business.iml" filepath="$PROJECT_DIR$/msz-business/msz-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msz-core-app/msz-core-app.iml" filepath="$PROJECT_DIR$/msz-core-app/msz-core-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msz-persistence/msz-persistence.iml" filepath="$PROJECT_DIR$/msz-persistence/msz-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msz-presentation/msz-presentation.iml" filepath="$PROJECT_DIR$/msz-presentation/msz-presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-zar.iml" filepath="$PROJECT_DIR$/my-shop-zar.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="msz-business" />
+        <module name="msz-core-app" />
+        <module name="msz-persistence" />
+        <module name="msz-presentation" />
+        <module name="my-shop-zar-ear" />
+        <module name="my-shop-zar-ejb" />
+        <module name="my-shop-zar-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="msz-business" target="1.7" />
+      <module name="msz-core-app" target="1.7" />
+      <module name="msz-persistence" target="1.6" />
+      <module name="msz-presentation" target="1.7" />
+      <module name="my-shop-zar" target="1.7" />
+      <module name="my-shop-zar-ear" target="1.7" />
+      <module name="my-shop-zar-ejb" target="1.7" />
+      <module name="my-shop-zar-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="msz-core-app:ear">
+    <output-path>$PROJECT_DIR$/msz-core-app/target</output-path>
+    <root id="archive" name="msz-core-app.ear">
+      <element id="artifact" artifact-name="msz-core-app:ear exploded" />
+    </root>
+  </artifact>
+</component>

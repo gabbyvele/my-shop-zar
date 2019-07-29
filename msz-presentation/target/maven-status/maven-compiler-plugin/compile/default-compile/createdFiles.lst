@@ -1,0 +1,4 @@
+com/myitzar/presentation/soap/MszUIServiceSoapImpl.class
+com/myitzar/presentation/rest/MszUIServiceRestImpl.class
+com/myitzar/presentation/service/MszUIService.class
+com/myitzar/presentation/rest/RestApplication.class
